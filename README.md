@@ -14,6 +14,8 @@ This chatbot is developed using the Docenty.ai chatbot service. Docenty.ai is a 
 
 To get started with the Chatbot for Tourist, follow the link below:
 
+<img width="1440" alt="Screen Shot 2023-08-28 at 6 30 57 PM" src="https://github.com/lahrry/Chatbot-for-Tourist/assets/62029893/74bfbe58-164b-411d-9773-30278bb3425b">
+
 [Chatbot for Tourist](https://tour-chatbot.framer.ai/)
 
 ## Features
